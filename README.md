@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ofiber
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learing Principles of Programming Languages, Computer Graphics, Info and Knowledge Management, and working on my capstone project
+- 🌱 I’m currently pursuing my Bachelor's degree in Computer/Information Science
 - 📫 Email: fibero@sunypoly.edu
 
 <!---
