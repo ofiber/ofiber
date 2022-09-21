@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ofiber
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently pursuing my Bachelor's degree in Computer/Information Science
+- 🌱 B.S. in Computer/Information Science, SUNY Polytechnic Institute
 - 📫 Email: fibero@sunypoly.edu
 
 <!---
